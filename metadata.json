@@ -1,0 +1,6 @@
+{
+  "name": "PocketBlend 3D Studio",
+  "description": "Ứng dụng tạo mô hình 3D, nắn khối, rig xương, diễn hoạt animation và render thời gian thực dành cho người mới bắt đầu, hỗ trợ xuất GLB/GLTF sang Unity, Unreal Engine, MP4 và Sprite Frame Sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
